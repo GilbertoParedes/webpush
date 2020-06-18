@@ -1,0 +1,22 @@
+{
+  "name": "webpush",
+  "version": "1.0.0",
+  "description": "package control",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GilbertoParedes/webpush.git"
+  },
+  "author": "Gilberto Paredes Bañuelos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GilbertoParedes/webpush/issues"
+  },
+  "homepage": "https://github.com/GilbertoParedes/webpush#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
